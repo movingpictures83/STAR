@@ -1,0 +1,3 @@
+fastq1	S12_R1.fastq
+fastq2	S12_R2.fastq
+genomeDir	genome/

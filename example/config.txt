@@ -1,0 +1,3 @@
+Prefix plugins/STAR/example/
+Plugin STAR inputfile parameters.index.txt outputfile genome/
+Plugin STAR inputfile parameters.align.txt outputfile S12_align

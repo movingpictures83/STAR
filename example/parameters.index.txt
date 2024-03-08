@@ -1,0 +1,2 @@
+runMode	genomeGenerate
+genomeFasta	GCF_000001405.40_GRCh38.p14_rna.fna
